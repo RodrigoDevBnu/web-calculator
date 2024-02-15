@@ -16,7 +16,7 @@ Uma calculadora simples implementada em HTML e JavaScript.
 
 ## Demonstração
 
-[Link para a demonstração ao vivo]([https://seu-username.github.io/seu-repositorio/](https://rodrigodevbnu.github.io/web-calculator/)) 
+[Link para a demonstração ao vivo](https://seu-username.github.io/seu-repositorio/](https://rodrigodevbnu.github.io/web-calculator/) 
 
 ## Como Contribuir
 
