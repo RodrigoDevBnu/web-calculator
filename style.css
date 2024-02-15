@@ -1,0 +1,81 @@
+body {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+  margin: 0;
+  background-image: url('/audioeimg/desk.jpg');
+  background-size: cover; /* Para cobrir toda a área do body */
+  color: rgb(255, 255, 255);
+}
+
+h1, h2 {
+  font-size: 18px;
+  margin: 0;
+  color: rgb(170, 168, 168);
+    
+}
+
+h1 {
+  text-align: left;
+  
+}
+
+h2 {
+  text-align: right;
+  font-size: 10px;
+  color: rgba(252, 43, 43, 0.815);
+  margin-top: 7px;  
+  
+}
+
+.calculadora {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  max-width: 300px;
+  text-align: center;
+  
+}
+
+.visor {
+  grid-column: 1 / -1;
+  margin-bottom: 10px;
+  background-color: rgba(155, 150, 150, 0.301);
+  backdrop-filter: blur(10px);
+  color:black;
+  border-radius: 10px;
+  padding: 20px;
+  font-size: 25px;
+  font-family: 'Lobster', cursive;
+  letter-spacing: 2px;
+  }
+
+.calculadora button {
+  background-color: rgba(131, 126, 126, 0.562);
+  color: black;
+  padding: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: 'Lobster', cursive;
+  font-size: larger;
+}
+
+.calculadora button:hover {
+  background-color: rgba(150, 144, 144, 0.945);
+  color: rgb(163, 7, 7);
+}
+button.other {
+  background-color: rgba(211, 38, 38, 0.562);
+}
+button.other:hover {
+  background-color: rgba(14, 11, 29, 0.514);
+}
+button.color2 {
+  background-color: rgba(247, 247, 248, 0.425);
+}
+div {
+  background-color: rgba(12, 12, 12, 0.404);
+  padding: 15px;
+}
