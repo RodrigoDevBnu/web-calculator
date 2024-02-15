@@ -93,7 +93,7 @@
     }
 
     function reproduzirBip() {
-      const audio = new Audio('/audioeimg/beep-sound-8333.mp3'); // Substitua pelo caminho real do seu arquivo de som
+      const audio = new Audio('./audioeimg/beep-sound-8333.mp3'); // Substitua pelo caminho real do seu arquivo de som
       audio.play();
     }
   
